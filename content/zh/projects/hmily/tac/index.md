@@ -12,3 +12,4 @@ description: tac
 * `TAC` 模式只适合于关系型数据库。
 
 * `TAC` 模式会拦截用户的SQL语句生成反向回滚SQL，SQL的兼容度也会是一大考验。
+* 
